@@ -18,8 +18,7 @@
             android:layout_height="match_parent"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintBaseline_toTopOf="parent"
-            app:layout_constraintBaseline_toStartOf="parent"
+
              />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
